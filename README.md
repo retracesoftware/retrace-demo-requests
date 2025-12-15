@@ -1,4 +1,4 @@
-# Retrace + Requests Quickstart (matches `footest13` structure)
+# Record → Replay → Debug quickstart
 
 This folder contains `test.py` (requests demo) and instructions to record/replay with Retrace in the same layout we use locally
 
