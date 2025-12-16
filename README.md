@@ -1,3 +1,8 @@
+## License
+
+This project is licensed under the Apache License, Version 2.0.
+See the LICENSE file for details.
+
 # Record → Replay → Debug quickstart
 
 This folder contains `test.py` (requests demo) and instructions to record/replay with Retrace in the same layout we use locally
